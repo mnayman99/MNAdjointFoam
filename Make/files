@@ -1,0 +1,7 @@
+/* OBJECTIVES */
+objectives/incompressible/objectiveForceMN/objectiveForceMN.C
+objectives/incompressible/objectiveMomentMN/objectiveMomentMN.C
+objectives/incompressible/objectiveRearLiftMN/objectiveRearLiftMN.C
+objectives/incompressible/objectiveDeltaLiftMN/objectiveDeltaLiftMN.C
+
+LIB = $(FOAM_USER_LIBBIN)/libMNadjointOptimisation
